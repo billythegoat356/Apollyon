@@ -1,2 +1,2 @@
 # <strong><i>F0rs4k3n</i></strong>
-<i>Une simple Backdoor, donnant accés à l'ensemble des fichiers d'un ordinateur.</i>
+<i>Un programme donnant accés à l'ensemble des fichiers d'un ordinateur, en ouvrant un serveur HTTP en local.</i>
