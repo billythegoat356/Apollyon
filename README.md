@@ -1,2 +1,10 @@
-# <strong><i>F0rs4k3n</i></strong>
-<i>Un programme donnant accés à l'ensemble des fichiers d'un ordinateur, en ouvrant un serveur HTTP en local.</i>
+### <p align="center">📌 Disclaimer 📌</p>
+
+<br><br>
+* ***Please use this program only for educational purposes.***
+* ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
+<br><br>
+
+-----
+
+### <p align="center">billythegoat356</p>
