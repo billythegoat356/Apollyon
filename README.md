@@ -1,139 +1,47 @@
 -----
 
 <p align="center">
-<img src="link", width="500", height="500">
+<img src="https://repository-images.githubusercontent.com/380137557/d9ad89b2-95d7-42bb-a877-6fe8f293de8b", width="500", height="500">
 </p>
 
 -----
 
-### <p align="center">🌍 Title 🌍</p>
+### <p align="center">👹 Apollyon 👹</p>
 
 <br><br>
 <p align="center">
 <strong>
-text
+Apollyon is one of the best Python3.9 obfuscators, it will protect your
 <br>
-text
-<br><br><br>
+code and make it extremely difficult to get deobfuscated by using CPython.
 </strong>
-<img src="link" width="750", height="400">
 </p>
 <br>
-
------
-
-### <p align="center">📋 Examples 📋</p>
-
-<br><br>
-`randomClass.randomFunc(randomArg)` -> `hello world!`
-<br><br>
-`randomClass2.randomFunc2(randomArg2)` -> `hey! how are you?`
-<br>
-
-
-OR
-
-
-<br><br>
-**Unobfuscated**:<br>
-```python3
-unobfuscated code
-```
-<br><br>
-**Obfuscated**:<br>
-```python3
-obfuscated code
-```
-
-OR
-
-
-<br><br>
-<p align="center">
-text
-<br><br><br>
-<img src="link" width="500", height="500">
-</p>
-<br><br><br>
-
-
-OR
-
-
-<br><br><br>
-<p align="center">
-<img src="link" width="500", height="500">
-<br><br>
-to
-<br><br>
-<img src="link" width="500", height="500">
-</p>
-<br><br><br>
-
------
-
-### <p align="center">📚 Documentation 📚</p>
-
-<p align="center"><strong><i>If you encounter any problem while using this program, create an issue on this repository and I will help you.
-<br>
-Also, please use this program only for educational purposes, and don't forget; great power comes with great responsibility.</i></strong>
-</p>
- 
-<br><br>
-
-<p align="center">
-<img src="link", width="500", height="500">  
-</p>
-  
-<br><br>
-
-First of all, you have to install Python3 AND 'pip'. Then run the `setup.bat` file.
-It will install you the necessary libraries for the program.  
-  
-name contains two parts:
-  - Client
-  - Server (hosted by me, don't touch it unless you are a developper)
-  
-**1: Client**
-<p align="center">
-<img src="link", width="250", height="250">  
-</p>
-text
-text
-
-<br><br>
- 
-**2: Server**
-<p align="center">
-<img src="link", width="250", height="250">  
-</p>
-text
-text
- 
-<br><br>
 
 -----
 
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ plus</strong>
+<strong>+ Very good obfuscation (a bit like pyarmor)</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Obfuscated code is encrypted</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ 3 layers of obfuscation</strong>
+<br>
+<strong>+ Funny obfuscation, with hidden messages ;)</strong>
 <br>
 
 <p align="right">
-<img src="link" width="250", height="250">
+<img src="https://repository-images.githubusercontent.com/380137557/d9ad89b2-95d7-42bb-a877-6fe8f293de8b" width="250", height="250">
 </p>
 
 <br>
-<strong>- minus</strong>
+<strong>- Works only on Python3.9</strong>
 <br>
-<strong>- minus</strong>
+<strong>- Needs the 'apollyon.pyd' file and the others folders in order to work</strong>
 <br>
-<strong>- minus</strong>
+<strong>- Cannot be compiled to executable</strong>
 <br><br>
 
 -----
@@ -144,8 +52,8 @@ text
 <p align="center"><strong><i>⚪🟢🔵🔴🟣⚫</i></strong</p>
 
 <br><br>
-* Time: 🟢
-* Complexity: 🟣
+* Time: 🟣
+* Complexity: 🔴
 * Service: 🔴
 <br><br>
 
@@ -156,19 +64,8 @@ text
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* idea
-* idea
-<br><br>
-
------
-
-### <p align="center">⚠️ Restrictions ⚠️</p>
-
-<p align="center"><strong><i>This program has some restrictions, in order to prevent malicious attacks.</i></strong></p>
-
-<br><br>
-* 1
-* 2
+* Add a layer
+* Make the obfuscator compatible with Python3.8 and Python3.9
 <br><br>
 
 -----
@@ -176,17 +73,7 @@ text
 ### <p align="center">🎨 Contributors 🎨</p>
 
 <br><br>
-* [user](link) | Part
-<br><br>
-  
------
-  
-### <p align="center">🪓 Deobfuscators 🪓</p>
-
-<p align="center"><strong>I did not check the code of the following repositories, some of them might be viruses.</strong></p>
-
-<br><br>
-* [title](link) by [user](link) | Language
+* [Bleu](https://github.com/Bleu-No) | Gave me the PYD idea and helped me with CPython
 <br><br>
   
 -----
