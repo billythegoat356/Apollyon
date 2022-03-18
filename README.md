@@ -64,6 +64,7 @@ code and make it extremely difficult to get deobfuscated by using CPython.
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
+* Allow the user to choose the encryption key (CPython would be necessary)
 * Add a layer
 * Make the obfuscator compatible with Python3.8 and Python3.9
 <br><br>
