@@ -133,7 +133,7 @@ execute("exec(__import__('apollyon').decode(script, key))")
 
 
 
-file = input(f"{Col.Symbol('?', Col.orange, Col.red)} {Col.orange}Drag a file to obfuscate {Col.red}-> {Col.reset}")
+file = input(f"{Col.Symbol('?', Col.orange, Col.red)} {Col.orange}Drag a file to obfuscate {Col.red}-> {Col.reset}").replace('\\ ', ' ').strip()
 
 print()
 
