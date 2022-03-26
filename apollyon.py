@@ -65,7 +65,7 @@ def obfuscate(code: str):
 """
 This code has been obfuscated with https://github.com/billythegoat356/Apollyon by billy
 Good luck deobfuscating it you skid ;)
-"""'''.replace('https://github.com/billythegoat356/Apollyon', '????????').encode()
+"""'''.encode()
     apollyon_content = get(url + "apollyon.pyd").content
 
     stage("Building directories...")
